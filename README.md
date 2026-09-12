@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my projects, skills, and experience — built with plain HTML, CSS, and JavaScript.
 
-🔗 **Live Demo:** [ttahsin124-wq.github.io/My_Portfolio](https://ttahsin124-wq.github.io/My_Portfolio/)
+🔗 **Live Demo:** [ttahsin124-wq.github.io/My_Portfolio](https://github.com/ttahsin124-wq/My_Portfolio)
 
 ## 📸 Preview
 
