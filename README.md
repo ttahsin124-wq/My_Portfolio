@@ -4,10 +4,6 @@ A personal portfolio website showcasing my projects, skills, and experience — 
 
 🔗 **Live Demo:** [ttahsin124-wq.github.io/My_Portfolio]( https://ttahsin124-wq.github.io/My_Portfolio/)
 
-## 📸 Preview
-
-
-
 ## ✨ Features
 
 - Responsive design (mobile, tablet, desktop)
@@ -15,7 +11,7 @@ A personal portfolio website showcasing my projects, skills, and experience — 
 - Projects showcase with links to live demos and source code
 - Skills / tech stack section
 - Contact form or contact links
-- Smooth scrolling / animations *(remove if not applicable)*
+- Smooth scrolling / animations
 
 ## 🛠️ Built With
 
@@ -32,7 +28,6 @@ portfolio/
 ├── script.js
 ├── assets/
 │   ├── images/
-│   └── icons/
 └── README.md
 ```
 
@@ -42,7 +37,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/ttahsin124-wq/portfolio.git
 
 # Navigate into the project folder
 cd portfolio
@@ -54,10 +49,8 @@ No build tools or dependencies required — just open `index.html` directly, or 
 
 ## 📬 Contact
 
-- **Email:** youremail@example.com
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** ttahsin124@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/anisa-tahsin-nisa-948088418/)
+- **GitHub:** [github.com/yourusername](https://github.com/ttahsin124-wq)
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
