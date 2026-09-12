@@ -50,7 +50,7 @@ No build tools or dependencies required — just open `index.html` directly, or 
 ## 📬 Contact
 
 - **Email:** ttahsin124@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/anisa-tahsin-nisa-948088418/)
-- **GitHub:** [github.com/yourusername](https://github.com/ttahsin124-wq)
+- **LinkedIn:** [linkedin.com/in/anisa-tahsin-nisa-948088418](https://www.linkedin.com/in/anisa-tahsin-nisa-948088418/)
+- **GitHub:** [github.com/ttahsin124-wq](https://github.com/ttahsin124-wq)
 
 
